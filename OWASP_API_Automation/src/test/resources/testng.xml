@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Automation Work/Mobile Automation/OWASP_API_Automation/src/test/java/LoginAddwithVerify">
+        <classes>
+            <class name="LoginAddwithVerify.AddandDeleteItem">
+            </class>
+            <class name="LoginAddwithVerify.BasketVerify">
+        </class>
+        </classes>
+    </test>
+</suite>
